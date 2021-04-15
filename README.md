@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KatieSa
-- 👀 I’m interested in traveling, LCHF food 🥑, yachting, latino dancing, kite surfing and much more 😆
+- 👀 I’m interested in traveling, LCHF food 🥑, yachting, skiing, kite surfing, smiling, singing in the shower and much more 😆
 - 🌱 I’m currently learning JavaScrypt, React 
-- 💞️ I’m looking to collaborate on my own  private project
 - 📫 How to reach me - on Instagram __katies__
 
 <!---
